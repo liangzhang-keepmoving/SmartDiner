@@ -1,4 +1,6 @@
-# SmartDiner
+# Smart Dinner IOS APP
+
+Created: June 28, 2025 10:36 PM
 
 ![logo.jpg](Smart%20Dinner%20IOS%20APP%202207556753808125a7cbc82de10fa0cc/logo.jpg)
 
