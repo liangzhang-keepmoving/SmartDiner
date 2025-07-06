@@ -1,0 +1,139 @@
+[
+
+    {
+        "name": "Salad",
+        "category": "Healthy food",
+        "city": "Twentynine Palms",
+        "state": "100 calorie",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "20 sar",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "imageName": "Salad"
+    },
+    {
+        "name": "Budget meal",
+        "category": "Today's special",
+        "city": "Skagway",
+        "state": "100 calorie",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "15 sar",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "imageName": "budgetmeal"
+    },
+    {
+        "name": "Kunafa",
+        "category": "Snacks",
+        "city": "Port Alsworth",
+        "state": "100 calorie",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "33 sar",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "imageName": "kunafa"
+    },
+    {
+        "name": "Softdrinks",
+        "category": "Snacks",
+        "city": "Browning",
+        "state": "100 calorie",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "45 sar",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "imageName": "softdrink"
+    },
+    {
+        "name": "Shawarma",
+        "category": "Today's special",
+        "city": "West Glacier",
+        "state": "100 calorie",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "12 sar",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "imageName": "shawarma"
+    },
+    {
+        "name": "Chicken breast",
+        "category": "Healthy food",
+        "city": "Eaking",
+        "state": "100 calorie",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "33 sar",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "imageName": "chickenbreast",
+    },
+    {
+        "name": "Steak",
+        "category": "Today's special",
+        "city": "Icy Bay",
+        "state": "100 calorie",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "42 sar",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "imageName": "steak"
+    },
+    {
+        "name": "Dumplings",
+        "category": "Healthy food",
+        "city": "Chincoteague",
+        "state": "100 calorie",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "14 sar",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "imageName": "dumplings"
+    },
+    {
+        "name": "Icecream",
+        "category": "Snacks",
+        "city": "Errol",
+        "state": "100 calorie",
+        "id": 1012,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "10 sar",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "imageName": "icecream"
+    }
+
+]
