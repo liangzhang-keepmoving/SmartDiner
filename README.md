@@ -2,6 +2,20 @@
 
 ![logo.jpg](Smart%20Dinner%20IOS%20APP%202207556753808125a7cbc82de10fa0cc/logo.jpg)
 
+
+
+
+- running
+1. Install swift
+2. Clone the project
+3. Click the smart dinner workspace icon
+4. Run the ios app in the simulator
+
+
+
+
+
+
 - Introduction
     
     Objectives: design a one-stop meal platform to provide a seamless food chain experience and personal food management.
